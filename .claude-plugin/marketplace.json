@@ -1,0 +1,16 @@
+{
+  "name": "youtube-watch",
+  "owner": {
+    "name": "systemsacceleration"
+  },
+  "plugins": [
+    {
+      "name": "youtube-watch",
+      "source": "./",
+      "description": "Give Claude any YouTube link and it pulls the full timestamped transcript through its built-in browser. No API keys, no installs."
+    }
+  ],
+  "metadata": {
+    "description": "Claude skill that reads YouTube videos through their transcripts, with no API keys or installs."
+  }
+}
