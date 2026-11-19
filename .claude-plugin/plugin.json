@@ -1,0 +1,7 @@
+{
+  "name": "youtube-watch",
+  "version": "1.0.0",
+  "description": "Give Claude any YouTube link and it pulls the full timestamped transcript through its built-in browser, then saves it or turns it into summaries, notes, posts or a Google Doc. No API keys, no installs.",
+  "license": "MIT",
+  "keywords": ["youtube", "transcript", "video", "captions", "summary"]
+}
